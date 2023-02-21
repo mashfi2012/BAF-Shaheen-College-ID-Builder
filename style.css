@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.input{
+	color: #ffffff;
+	border: 10px solid #6495ed;
+	font-family: monospace;
+    min-width: 40%;
+    min-height: 80vh;
+    background: #202020;
+    display: block;
+    font-size: 15px;
+}
+img{
+	width: 200px;
+	height: auto;
+	border-radius: 20%;
+}
+.btn{
+	font-size: 20px;
+	background: #6495ed;
+	color: white;
+	border-radius: 5px;
+}
+.id{
+	width: 50%;
+	height: 90vh;
+	border: 3px solid #aaaaaa;
+}
+.id img{
+	border: 2px solid #555555;
+}
+.output_title{
+	color: #ffffff;
+	background-color: #6495ed;
+	font-family: Cambria Math;
+}
+
+.output_subTitle{
+	display: inline;
+	color: #00cc00;
+	border: 2px solid #00cc00;
+}
+.main_id{
+	font-size: 30px;
+	font-family: Calibri;
+}
+table{
+	width: 45%;
+	text-align: center;
+}
+button{
+	font-size: 20px;
+	background: #6495ed;
+	color: white;
+	border-radius: 5px;
+	text-align: center;
+}
